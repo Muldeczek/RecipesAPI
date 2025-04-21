@@ -1,10 +1,10 @@
-package pl.muldek.RecipesAPI.recipes;
+package pl.muldek.recipesAPI.recipes;
 
 import org.bukkit.Material;
 import org.bukkit.inventory.BrewerInventory;
 import org.bukkit.inventory.ItemStack;
-import pl.muldek.RecipesAPI.BrewClock;
-import pl.muldek.RecipesAPI.Pair;
+import pl.muldek.recipesAPI.BrewClock;
+import pl.muldek.recipesAPI.Pair;
 
 import java.util.ArrayDeque;
 import java.util.List;

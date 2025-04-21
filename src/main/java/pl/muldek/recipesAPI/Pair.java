@@ -1,4 +1,4 @@
-package pl.muldek.RecipesAPI;
+package pl.muldek.recipesAPI;
 
 import org.bukkit.inventory.BrewerInventory;
 import org.bukkit.inventory.ItemStack;

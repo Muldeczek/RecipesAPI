@@ -1,4 +1,4 @@
-package pl.muldek.RecipesAPI.listeners;
+package pl.muldek.recipesAPI.listeners;
 
 import org.bukkit.Material;
 import org.bukkit.event.EventHandler;
@@ -10,10 +10,10 @@ import org.bukkit.event.inventory.InventoryType;
 import org.bukkit.inventory.*;
 import org.bukkit.inventory.view.BrewingStandView;
 import org.bukkit.scheduler.BukkitRunnable;
-import pl.muldek.RecipesAPI.BrewClock;
-import pl.muldek.RecipesAPI.BrewingFuel;
-import pl.muldek.RecipesAPI.Main;
-import pl.muldek.RecipesAPI.recipes.BrewingRecipe;
+import pl.muldek.recipesAPI.BrewClock;
+import pl.muldek.recipesAPI.BrewingFuel;
+import pl.muldek.recipesAPI.Main;
+import pl.muldek.recipesAPI.recipes.BrewingRecipe;
 
 import java.util.*;
 

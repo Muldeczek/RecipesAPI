@@ -1,4 +1,4 @@
-package pl.muldek.RecipesAPI.recipes;
+package pl.muldek.recipesAPI.recipes;
 
 import org.bukkit.event.inventory.PrepareAnvilEvent;
 import org.bukkit.inventory.ItemStack;

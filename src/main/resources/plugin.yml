@@ -1,6 +1,6 @@
 name: RecipesAPI
 version: '1.0-SNAPSHOT'
-main: pl.muldek.RecipesAPI.Main
+main: pl.muldek.recipesAPI.Main
 api-version: '1.21'
 load: STARTUP
 authors: [ Muldek ]
