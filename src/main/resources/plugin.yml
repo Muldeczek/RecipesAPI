@@ -1,7 +1,8 @@
 name: RecipesAPI
 version: '1.0-SNAPSHOT'
-main: pl.muldek.recipesAPI.Main
+main: pl.muldek.RecipesAPI.Main
 api-version: '1.21'
 load: STARTUP
 authors: [ Muldek ]
+website: https://www.spigotmc.org/resources/recipesapi-anvil-grindstone-brewing-stand.124256/
 description: API for easy recipe creation

@@ -1,14 +1,14 @@
-package pl.muldek.recipesAPI;
+package pl.muldek.RecipesAPI;
 
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.Recipe;
-import pl.muldek.recipesAPI.listeners.AnvilRecipeListener;
-import pl.muldek.recipesAPI.listeners.BrewingRecipeListener;
-import pl.muldek.recipesAPI.listeners.GrindstoneRecipeListener;
-import pl.muldek.recipesAPI.recipes.AnvilRecipe;
-import pl.muldek.recipesAPI.recipes.BrewingRecipe;
-import pl.muldek.recipesAPI.recipes.GrindstoneRecipe;
+import pl.muldek.RecipesAPI.listeners.AnvilRecipeListener;
+import pl.muldek.RecipesAPI.listeners.BrewingRecipeListener;
+import pl.muldek.RecipesAPI.listeners.GrindstoneRecipeListener;
+import pl.muldek.RecipesAPI.recipes.AnvilRecipe;
+import pl.muldek.RecipesAPI.recipes.BrewingRecipe;
+import pl.muldek.RecipesAPI.recipes.GrindstoneRecipe;
 
 import java.util.Iterator;
 

@@ -1,4 +1,4 @@
-package pl.muldek.recipesAPI.listeners;
+package pl.muldek.RecipesAPI.listeners;
 
 import org.bukkit.*;
 import org.bukkit.block.Block;
@@ -12,7 +12,7 @@ import org.bukkit.event.inventory.PrepareAnvilEvent;
 import org.bukkit.inventory.AnvilInventory;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
-import pl.muldek.recipesAPI.recipes.AnvilRecipe;
+import pl.muldek.RecipesAPI.recipes.AnvilRecipe;
 
 import java.util.*;
 

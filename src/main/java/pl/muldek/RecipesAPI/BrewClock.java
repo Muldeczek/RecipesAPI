@@ -1,12 +1,12 @@
-package pl.muldek.recipesAPI;
+package pl.muldek.RecipesAPI;
 
 import org.bukkit.Material;
 import org.bukkit.block.BrewingStand;
 import org.bukkit.inventory.BrewerInventory;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.scheduler.BukkitRunnable;
-import pl.muldek.recipesAPI.listeners.BrewingRecipeListener;
-import pl.muldek.recipesAPI.recipes.BrewingRecipe;
+import pl.muldek.RecipesAPI.listeners.BrewingRecipeListener;
+import pl.muldek.RecipesAPI.recipes.BrewingRecipe;
 
 public class BrewClock extends BukkitRunnable {
     

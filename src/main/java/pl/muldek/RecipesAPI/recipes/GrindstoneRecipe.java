@@ -1,4 +1,4 @@
-package pl.muldek.recipesAPI.recipes;
+package pl.muldek.RecipesAPI.recipes;
 
 import org.bukkit.event.inventory.PrepareGrindstoneEvent;
 import org.bukkit.inventory.ItemStack;

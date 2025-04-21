@@ -1,4 +1,4 @@
-package pl.muldek.recipesAPI.listeners;
+package pl.muldek.RecipesAPI.listeners;
 
 import org.bukkit.*;
 import org.bukkit.block.Block;
@@ -7,7 +7,7 @@ import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.inventory.*;
 import org.bukkit.inventory.*;
-import pl.muldek.recipesAPI.recipes.GrindstoneRecipe;
+import pl.muldek.RecipesAPI.recipes.GrindstoneRecipe;
 
 import java.util.*;
 
